@@ -1,0 +1,2 @@
+Only tested with Logitech G-series Keyboard Profiler v.1.03.166 (07/22/2006 / 17:59:24)
+LGDCore.exe has to be running in order to make the program work
