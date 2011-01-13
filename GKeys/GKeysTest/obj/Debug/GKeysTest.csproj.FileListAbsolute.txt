@@ -1,0 +1,10 @@
+C:\Dokumente und Einstellungen\Kahlow\Eigene Dateien\G11 Try\GKeys\GKeysTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\Kahlow\Eigene Dateien\G11 Try\GKeys\GKeysTest\bin\Debug\GKeysTest.exe
+C:\Dokumente und Einstellungen\Kahlow\Eigene Dateien\G11 Try\GKeys\GKeysTest\bin\Debug\GKeysTest.pdb
+C:\Dokumente und Einstellungen\Kahlow\Eigene Dateien\G11 Try\GKeys\GKeysTest\bin\Debug\GKeys.dll
+C:\Dokumente und Einstellungen\Kahlow\Eigene Dateien\G11 Try\GKeys\GKeysTest\bin\Debug\GKeys.pdb
+C:\Dokumente und Einstellungen\Kahlow\Eigene Dateien\G11 Try\GKeys\GKeysTest\obj\Debug\GKeysTest.exe
+C:\Dokumente und Einstellungen\Kahlow\Eigene Dateien\G11 Try\GKeys\GKeysTest\obj\Debug\GKeysTest.pdb
+C:\Dokumente und Einstellungen\Kahlow\Eigene Dateien\G11 Try\GKeys\GKeysTest\bin\Debug\Default.lua
+C:\Dokumente und Einstellungen\Kahlow\Eigene Dateien\G11 Try\GKeys\GKeysTest\bin\Debug\LuaInterface.dll
+C:\Dokumente und Einstellungen\Kahlow\Eigene Dateien\G11 Try\GKeys\GKeysTest\bin\Debug\lua51.dll

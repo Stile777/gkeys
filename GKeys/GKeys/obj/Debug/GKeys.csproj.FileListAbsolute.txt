@@ -1,0 +1,5 @@
+C:\Dokumente und Einstellungen\Kahlow\Eigene Dateien\G11 Try\GKeys\GKeys\obj\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\Kahlow\Eigene Dateien\G11 Try\GKeys\GKeys\bin\Debug\GKeys.dll
+C:\Dokumente und Einstellungen\Kahlow\Eigene Dateien\G11 Try\GKeys\GKeys\bin\Debug\GKeys.pdb
+C:\Dokumente und Einstellungen\Kahlow\Eigene Dateien\G11 Try\GKeys\GKeys\obj\Debug\GKeys.dll
+C:\Dokumente und Einstellungen\Kahlow\Eigene Dateien\G11 Try\GKeys\GKeys\obj\Debug\GKeys.pdb

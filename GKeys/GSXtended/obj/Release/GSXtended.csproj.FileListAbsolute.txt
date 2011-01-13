@@ -1,0 +1,13 @@
+C:\Dokumente und Einstellungen\Kahlow\Eigene Dateien\G11 Try\GKeys\GSXtended\bin\Release\default.lua
+C:\Dokumente und Einstellungen\Kahlow\Eigene Dateien\G11 Try\GKeys\GSXtended\bin\Release\GSXtended.exe
+C:\Dokumente und Einstellungen\Kahlow\Eigene Dateien\G11 Try\GKeys\GSXtended\bin\Release\GSXtended.pdb
+C:\Dokumente und Einstellungen\Kahlow\Eigene Dateien\G11 Try\GKeys\GSXtended\bin\Release\GKeys.dll
+C:\Dokumente und Einstellungen\Kahlow\Eigene Dateien\G11 Try\GKeys\GSXtended\bin\Release\LuaInterface.dll
+C:\Dokumente und Einstellungen\Kahlow\Eigene Dateien\G11 Try\GKeys\GSXtended\bin\Release\lua51.dll
+C:\Dokumente und Einstellungen\Kahlow\Eigene Dateien\G11 Try\GKeys\GSXtended\bin\Release\GKeys.pdb
+C:\Dokumente und Einstellungen\Kahlow\Eigene Dateien\G11 Try\GKeys\GSXtended\obj\Release\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\Kahlow\Eigene Dateien\G11 Try\GKeys\GSXtended\obj\Release\GSXtended.frmMain.resources
+C:\Dokumente und Einstellungen\Kahlow\Eigene Dateien\G11 Try\GKeys\GSXtended\obj\Release\GSXtended.Properties.Resources.resources
+C:\Dokumente und Einstellungen\Kahlow\Eigene Dateien\G11 Try\GKeys\GSXtended\obj\Release\GSXtended.csproj.GenerateResource.Cache
+C:\Dokumente und Einstellungen\Kahlow\Eigene Dateien\G11 Try\GKeys\GSXtended\obj\Release\GSXtended.exe
+C:\Dokumente und Einstellungen\Kahlow\Eigene Dateien\G11 Try\GKeys\GSXtended\obj\Release\GSXtended.pdb
