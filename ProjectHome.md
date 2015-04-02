@@ -1,0 +1,1 @@
+Allows you to assign Lua scripts to the G-Keys etc.
